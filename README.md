@@ -1,6 +1,6 @@
 # RMII
-Files Include:
-Prospectus 
-Analysis Tutoriall
-R script for analysis tutorial
-Analysis tutorial code images
+\n Files Include:
+\n Prospectus 
+\n Analysis Tutoriall
+\n R script for analysis tutorial
+\n Analysis tutorial code images
