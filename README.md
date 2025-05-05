@@ -1,5 +1,5 @@
 # RMII
-\n Files Include:
+/n Files Include:
 \n Prospectus 
 \n Analysis Tutoriall
 \n R script for analysis tutorial
